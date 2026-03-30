@@ -1,8 +1,5 @@
-# 飞牛NAS 推荐 MoviePilot V2
-jxxghp/moviepilot-v2:latest
-jxxghp/moviepilot-v2:v2.9.23
-
-# 飞牛ARM机型（如飞牛ARM版NAS）
---platform=linux/arm64 jxxghp/moviepilot-v2
-# 飞牛X86机型
---platform=linux/amd64 jxxghp/moviepilot-v2
+nginx
+#支持私库
+v2ray/v2ray:latest
+#支持指定架构
+--platform=linux/arm64 v2ray/v2ray:latest
