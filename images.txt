@@ -1,5 +1,5 @@
 nginx
 #支持私库
-v2ray/v2ray:latest
+v2raya/v2raya:latest
 #支持指定架构
---platform=linux/arm64 v2ray/v2ray:latest
+--platform=linux/arm64 v2raya/v2raya:latest
