@@ -1,7 +1,5 @@
 nginx
 #支持私库
 v2raya/v2raya:latest
-ghcr.io/v2raya/dist-v2ray-rules-dat:latest
 #支持指定架构
 --platform=linux/arm64 v2raya/v2raya:latest
---platform=linux/arm64 ghcr.io/v2raya/dist-v2ray-rules-dat:latest
