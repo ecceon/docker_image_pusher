@@ -1,4 +1,4 @@
-frpc-desktop
+nginx
 #支持私库
 luckjiawei/frpc-desktop:latest
 #支持指定架构
