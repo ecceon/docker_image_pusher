@@ -1,5 +1,8 @@
-nginx
-#支持私库
+# 若镜像在 ghcr.io
+ghcr.io/luckjiawei/frpc-desktop:latest
+
+# 若镜像在 DockerHub
 luckjiawei/frpc-desktop:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
+# 如需指定架构（例如arm64），添加--platform参数
+--platform=linux/arm64 ghcr.io/luckjiawei/frpc-desktop:latest
