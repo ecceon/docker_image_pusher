@@ -1,5 +1,5 @@
-nginx
+frpc-desktop
 #支持私库
-metatube-community/jellyfin-plugin-metatube:latest
+luckjiawei/frpc-desktop:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
